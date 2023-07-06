@@ -1,0 +1,4 @@
+1-Use Shortcut Keys
+2-set unit scale
+3-Make currect materials
+4-keep your vertecies as low as possible but keep origin of the object
